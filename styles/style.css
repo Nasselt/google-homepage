@@ -1,0 +1,139 @@
+body {
+}
+
+.top-navbar {
+    text-align: right;
+    word-spacing: 10px;
+    font-size: 14px;
+    margin-right: 5px;
+    top: 20px;
+    right: 150px;
+    height: 40px;
+    line-height: 30px;
+    justify-content: space-between;
+}
+  
+span {
+    vertical-align: middle;
+}
+.top-navbar a {
+    color: black;
+    text-decoration: none;
+}
+
+.top-navbar a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#login-btn {
+    background-color: #4286f4;
+    color:white;
+    height: 30px;
+    width: 90px;
+    border-radius: 3px;
+    border: none;
+    font-weight: bold;
+}
+
+#menu-img {
+    top: 20px;
+    right: 100px;
+}
+
+.main {
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 150px;
+}
+
+#searchbar {
+    width: 480px;
+    height: 20px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+.searchbutton {
+    background-color: #F2F2F2;
+    color: #666666;
+    text-align: center;
+    height: 35px;
+    width: 120px;
+    border-radius: 3px;
+    border: none;
+    font-weight: bold;
+}
+
+.main p{
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.main a {
+    color: #1A1CBA;
+    text-decoration: none;
+}
+
+.main a:hover {
+    text-decoration: underline;
+}
+
+.main [type=text] {
+    border-style: solid;
+    box-shadow: 0 2px 8px -4px ;
+    border-color: #EBEBEB;
+}
+
+.footer {
+    position: fixed;
+    border: 1px solid;
+    border-color: #EBEBEB;
+    left: 0%;
+    bottom: 0%;
+    height: 95px;
+    width: 100%;
+    background-color: #F2F2F2;
+}
+
+.country-footer {
+    border: 1px solid;
+    border-color: #EBEBEB;
+    padding: 12px;
+    color: #66666E;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.footer-menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    padding: 15px;
+    border: 1px solid;
+    border-color: #EBEBEB;
+}
+
+.right-text {
+    float: right;
+    word-spacing: 20px;
+    margin-right: 15px;
+}
+
+.left-text {
+    float: left;
+    word-spacing: 20px;
+    margin-left: 15px;
+}
+
+.footer-menu a {
+    color: #66666E;
+    text-decoration: none;
+}
+
+.footer-menu a:hover {
+    text-decoration: underline;
+}
+
+
+
